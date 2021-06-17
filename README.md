@@ -33,7 +33,7 @@ pythonを利用したこのプログラムは、英語学習をサポートし�
 `pip install pyperclip`
 2. cliptext.pyを実行します。
 もしGoogle画像検索の機能のみを無効にしたい場合は
-`python3 cliptext.py -f`
+```python3 cliptext.py -f```
 としてください。
 また作成される英単語帳のファイル名を自分で決めたい場合は
 `python3 cliptext.py -n myname.txt`
