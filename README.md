@@ -16,10 +16,15 @@ pythonを利用したこのプログラムは、英語学習をサポートし�
 
 1. iPadで覚えたい英単語をコピーする
 
+![IMG_3E0D9A3DE531-1](https://user-images.githubusercontent.com/79252115/122441185-47d59f80-cfd8-11eb-82f6-73e0b751b65f.jpeg)
+
 2. Mac上でGoogle画像検索が自動的に行われる
+
+<img width="1072" alt="スクリーンショット 2021-06-18 1 51 46" src="https://user-images.githubusercontent.com/79252115/122441220-50c67100-cfd8-11eb-9067-d16ccded29bd.png">
 
 3. 難易度と共に英単語帳が作成される（英文も収録可能）
 
+<img width="698" alt="スクリーンショット 2021-06-18 1 52 20" src="https://user-images.githubusercontent.com/79252115/122441286-6045ba00-cfd8-11eb-914b-596627547096.png">
 
 
 ## test
